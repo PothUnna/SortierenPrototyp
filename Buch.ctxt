@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Buch
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=px
+comment1.target=Buch(int)
+comment2.params=
+comment2.target=int\ gibHoehe()
+comment3.params=
+comment3.target=int\ gibBreite()
+comment4.params=
+comment4.target=java.lang.String\ gibTitel()
+comment5.params=px
+comment5.target=void\ setzeXLinks(int)
+numComments=6

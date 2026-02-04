@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Buecherregal
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Buecherregal()
+comment2.params=
+comment2.target=void\ sortiere()
+comment3.params=
+comment3.target=void\ bubblesort()
+comment4.params=
+comment4.target=void\ zeichneRegal()
+comment5.params=pRot\ pGruen\ pBlau
+comment5.target=void\ zeichneRegal(int,\ int,\ int)
+numComments=6
